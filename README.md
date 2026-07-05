@@ -26,6 +26,14 @@ See the theme file in this extension for full color and token settings. The them
 - Adjust editor font and size in Settings for personal comfort.
 - Override specific colors in your user settings (settings.json) using "workbench.colorCustomizations" and "editor.tokenColorCustomizations" to tailor the theme to your preferences.
 
+Example snippet to override a color:
+
+{
+	"workbench.colorCustomizations": {
+		"editor.background": "#1E1E1E"
+	}
+}
+
 ## Contribution
 
 Contributions and suggestions are welcome. Please open an issue or submit a pull request in the repository with proposed improvements or additional token color support.

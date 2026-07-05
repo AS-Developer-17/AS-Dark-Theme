@@ -1,0 +1,25 @@
+{
+  "name": "as-dark-theme",
+  "displayName": "AS Dark Theme",
+  "description": "AS Dark Theme",
+    "publisher":"ASDeveloper",
+  "repository":{"type":"git","url":"https://github.com/AS-Developer-17/AS-Dark-Theme"},
+  "keywords":["AS Developer","AS Dark","AS","Dark","Dark Theme","AS.Developer","Developer","AS.Dev","Dark Theme","AS Dark Theme","Themes","Dark Themes"],
+   
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AS Dark Theme ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AS Dark Theme -color-theme.json"
+      }
+    ]
+  }
+}
