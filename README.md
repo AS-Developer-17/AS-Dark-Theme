@@ -9,6 +9,15 @@ See the theme file in this extension for full color and token settings. The them
 - Bright, distinct accent colors for keywords, strings, and functions
 - Clear contrast for UI elements (activity bar, status bar, tabs, and panels)
 
+### JavaScript
+![JavaScript Preview](Images/JS.png)
+
+### Python
+![Python Preview](Images/PYTHON.png)
+
+### CSS
+![CSS Preview](Images/CSS.png)
+
 ## Features
 
 - Carefully chosen color palette for syntax highlighting and UI components
